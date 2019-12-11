@@ -1,0 +1,8 @@
+To generate adagramDisambigModule.so:
+
+	(1) Update PYTHON_PATH and JULIA_PATH in Makefile
+	(2) make
+	
+To run program:
+	(1) Update the ADAGRAM lib path, julia, and python exec path in run.sh
+	(2) Execute ./run.sh

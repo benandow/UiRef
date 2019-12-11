@@ -1,0 +1,1220 @@
+<node term="information" ignore="true">
+	<synonym term="datum" ignore="true"/>
+	<node term="username or email address">
+		<synonym term="email address"/>
+		<synonym term="email adress"/>
+		<synonym term="email id"/>
+		<synonym term="emailid"/>
+		<synonym term="gmail address"/>
+		<synonym term="yahoo email address"/>
+		<synonym term="secondary email address"/>
+		<synonym term="primary email address"/>
+		<synonym term="prefer email address"/>
+		<synonym term="account email address"/>
+		<synonym term="valid email address"/>
+		<synonym term="primary email"/>
+		<synonym term="detail email"/>
+		<synonym term="gmail id"/>
+		<synonym term="google id"/>
+		<synonym term="contact email address"/>
+		<synonym term="alt email"/>
+		<synonym term="email email_address_example"/>
+		<synonym term="current email"/>
+		<synonym term="email adres"/>
+		<synonym term="emailadres"/>
+		<synonym term="email eddress"/>
+		<synonym term="email account"/>
+		<synonym term="gmail account"/>
+		<synonym term="paypal email address"/>
+		<synonym term="paypal email"/>
+		<synonym term="valid email"/>
+		<synonym term="current email id"/>
+		<synonym term="webex account email"/>
+		<synonym term="document contact email"/>
+		<synonym term="signer email"/>
+		<synonym term="senders email"/>
+		<synonym term="signup email"/>
+		<synonym term="recovery email"/>
+		<synonym term="secondary email"/>
+		<synonym term="sender email"/>
+		<synonym term="admin email"/>
+		<synonym term="alternate email"/>
+		<synonym term="owner email"/>
+		<synonym term="user email"/>
+		<synonym term="account email"/>
+		<synonym term="register email id"/>
+		<synonym term="partner email"/>
+		<synonym term="student email"/>
+		<synonym term="client email"/>
+		<synonym term="person email"/>
+		<synonym term="personal email"/>
+		<synonym term="organizer email"/>
+		<synonym term="customer email"/>
+		<synonym term="agent email"/>
+		<synonym term="default email"/>
+		<synonym term="login email"/>
+		<synonym term="contact email"/>
+		<synonym term="feedback email address"/>
+		<synonym term="additional email"/>
+		<synonym term="email_address_example"/>
+		<synonym term="work email"/>
+		<synonym term="business email"/>
+		<synonym term="businessemail"/>
+		<synonym term="bussiness email"/>
+		<synonym term="company email"/>
+		<synonym term="email user name"/>
+		<synonym term="email username"/>
+		<synonym term="paypal id"/>
+		<synonym term="email"/>
+		<synonym term="gmail"/>
+		<synonym term="linkedin id"/>
+		<synonym term="facebook username"/>
+		<synonym term="facebook id"/>
+		<synonym term="facebook account"/>
+		<synonym term="google username"/>
+		<synonym term="username"/>
+		<synonym term="account username"/>
+		<synonym term="friend username"/>
+		<synonym term="api username"/>
+		<synonym term="recipient username"/>
+		<synonym term="database username"/>
+		<synonym term="provider username"/>
+		<synonym term="valid username"/>
+		<synonym term="admin username"/>
+		<synonym term="sap username"/>
+		<synonym term="sasl username"/>
+		<synonym term="landmax username"/>
+		<synonym term="ez username"/>
+		<synonym term="skillz username"/>
+		<synonym term="unique username"/>
+		<synonym term="sip account username"/>
+		<synonym term="switch username"/>
+		<synonym term="online banking username"/>
+		<synonym term="online banking login id"/>
+		<synonym term="user name"/>
+		<synonym term="appsbar username"/>
+		<synonym term="scoreloop username"/>
+		<synonym term="desire username"/>
+		<synonym term="admin usernames"/>
+		<synonym term="buddy username"/>
+		<synonym term="ftp user"/>
+		<synonym term="xfa user name"/>
+		<synonym term="user id"/>
+		<synonym term="userid"/>
+		<synonym term="moneycontrol userid"/>
+		<synonym term="netbanking userid"/>
+		<synonym term="data mailbox user id"/>
+		<synonym term="taxi user id"/>
+		<synonym term="wink user id"/>
+		<synonym term="login name"/>
+		<synonym term="screenname"/>
+		<synonym term="screen name"/>
+		<synonym term="adobe id"/>
+		<synonym term="twitter username"/>
+		<synonym term="twitter id"/>
+		<synonym term="twitter name"/>
+		<synonym term="twitter user"/>
+		<synonym term="twitter handle"/>
+		<synonym term="twitter login"/>
+		<synonym term="twitter account"/>
+		<synonym term="skype id"/>
+		<synonym term="router login name"/>
+		<synonym term="login"/>
+		<node term="doctor email address">
+			<synonym term="doctor email id"/>
+			<synonym term="optometrist email id"/>
+			<synonym term="dentist email id"/>
+			<synonym term="doctor email"/>
+		</node>
+		<node term="guardian email">
+			<synonym term="parent email"/>
+			<synonym term="parent email address"/>
+			<synonym term="child email adderss"/>
+			<synonym term="child email address"/>
+		</node>
+	</node>
+	<node term="menstrual cycle">
+		<synonym term="menstrual period"/>
+	</node>
+	<node term="seat belt use">
+	</node>
+	<node term="password">
+		<synonym term="pass word"/>
+		<synonym term="email password"/>
+		<synonym term="current password"/>
+		<synonym term="old password"/>
+		<synonym term="user password"/>
+		<synonym term="last password"/>
+		<synonym term="login password"/>
+		<synonym term="access password"/>
+		<synonym term="default password"/>
+		<synonym term="device password"/>
+		<synonym term="server password"/>
+		<synonym term="re password"/>
+		<synonym term="repassword"/>
+		<synonym term="api password"/>
+		<synonym term="digit password"/>
+		<synonym term="camera password"/>
+		<synonym term="initial password"/>
+		<synonym term="guest password"/>
+		<synonym term="provider password"/>
+		<synonym term="online password"/>
+		<synonym term="backup password"/>
+		<synonym term="secret password"/>
+		<synonym term="password confirm"/>
+		<synonym term="unlock password"/>
+		<synonym term="switch password"/>
+		<synonym term="meet password"/>
+		<synonym term="certificate password"/>
+		<synonym term="updated password"/>
+		<synonym term="temporary password"/>
+		<synonym term="recover password"/>
+		<synonym term="apn password"/>
+		<synonym term="administrative password"/>
+		<synonym term="xfa password"/>
+		<synonym term="rc password"/>
+		<synonym term="sasl password"/>
+		<synonym term="conform password"/>
+		<synonym term="vault password"/>
+		<synonym term="admin password"/>
+		<synonym term="master password"/>
+		<synonym term="local password"/>
+		<synonym term="tapatalk password"/>
+		<synonym term="confirm password"/>
+		<synonym term="confirmpassword"/>
+		<synonym term="mris password"/>
+		<synonym term="incoming server password"/>
+		<synonym term="one time password"/>
+		<synonym term="trial password"/>
+		<synonym term="original password"/>
+		<synonym term="user password for login"/>
+		<synonym term="administrator password"/>
+		<synonym term="nickserv password"/>
+		<synonym term="landmax password"/>
+		<synonym term="profile password"/>
+		<synonym term="group password"/>
+		<synonym term="grouppassword"/>
+		<synonym term="mobile password"/>
+		<synonym term="repeat password"/>
+		<synonym term="account password"/>
+		<synonym term="passwd"/>
+		<synonym term="pwd"/>
+		<synonym term="ftp pwd"/>
+		<synonym term="current passcode"/>
+		<synonym term="digit passcode"/>
+		<synonym term="old passcode"/>
+		<synonym term="passphrase"/>
+		<synonym term="pwd"/>
+		<synonym term="passwd"/>
+		<synonym term="pswd"/>
+		<synonym term="passcode"/>
+		<synonym term="database password"/>
+		<synonym term="pas word"/>
+		<synonym term="quicken password"/>
+		<synonym term="netbanking password"/>
+		<synonym term="online banking password"/>
+		<node term="facebook password">
+		</node>
+		<node term="twitter password">
+		</node>
+		<node term="wifi password">
+			<synonym term="network password"/>
+			<synonym term="wireless password"/>
+			<synonym term="router login passwd"/>
+			<synonym term="router password"/>
+		</node>
+		<node term="gmail password">
+			<synonym term="google password"/>
+		</node>
+		<node term="ftp password">
+		</node>
+		<node term="mint password">
+		</node>
+		<node term="nq account password">
+		</node>
+		<node term="exchange password">
+		</node>
+		<node term="optimum password">
+		</node>
+		<node term="gritsafe password">
+		</node>
+		<node term="adobe password">
+		</node>
+		<node term="smtp password">
+		</node>
+	</node>
+	<node term="person name">
+		<synonym term="full name"/>
+		<synonym term="fullname"/>
+		<synonym term="recipient name"/>
+		<synonym term="name"/>
+		<synonym term="owner name"/>
+		<synonym term="people name"/>
+		<synonym term="real name"/>
+		<synonym term="legal name"/>
+		<synonym term="credit card holder name"/>
+		<synonym term="card holder name"/>
+		<synonym term="credit card holder"/>
+		<synonym term="card holder"/>
+		<synonym term="cardholder"/>
+		<synonym term="firstname lastname on card"/>
+		<synonym term="customer name on card"/>
+		<synonym term="name on card"/>
+		<synonym term="name on cc"/>
+		<synonym term="first surname"/>
+		<synonym term="first last name"/>
+		<synonym term="firstname lastname"/>
+		<synonym term="name on credit card"/>
+		<synonym term="cardholder name"/>
+		<synonym term="name of account holder"/>
+		<synonym term="holder name"/>
+		<synonym term="account holder"/>
+		<synonym term="policy holder"/>
+		<synonym term="account holder name"/>
+		<synonym term="guest name"/>
+		<synonym term="student name"/>
+		<synonym term="patient name"/>
+		<synonym term="driver of vehicle"/>
+		<synonym term="vehicle driver"/>
+		<synonym term="driver name"/>
+		<synonym term="name on account"/>
+		<synonym term="payee full name"/>
+		<synonym term="applicant name"/>
+		<synonym term="homeowner name"/>
+		<synonym term="visitor name"/>
+		<synonym term="signer name"/>
+		<synonym term="sender name"/>
+		<synonym term="name surname"/>
+		<synonym term="insurer name"/>
+		<synonym term="member name"/>
+		<synonym term="name of player"/>
+		<synonym term="player name"/>
+		<synonym term="playername"/>
+		<synonym term="first player name"/>
+		<synonym term="second player name"/>
+		<synonym term="payee name"/>
+		<synonym term="creator name"/>
+		<synonym term="name of person"/>
+		<synonym term="person name"/>
+		<synonym term="contact person name"/>
+		<synonym term="name of a person"/>
+		<synonym term="author name"/>
+		<synonym term="caller name"/>
+		<synonym term="billing name"/>
+		<synonym term="middle name"/>
+		<synonym term="middlename"/>
+		<synonym term="middle initial"/>
+		<synonym term="middle int"/>
+		<synonym term="first name"/>
+		<synonym term="firstname"/>
+		<synonym term="give name"/>
+		<synonym term="phonetic first name"/>
+		<synonym term="fist name"/>
+		<synonym term="forename"/>
+		<synonym term="primary subscriber first name"/>
+		<synonym term="insure first name"/>
+		<synonym term="patient first name"/>
+		<synonym term="author first name"/>
+		<synonym term="document contact first name"/>
+		<synonym term="contact first name"/>
+		<synonym term="student first name"/>
+		<synonym term="last name"/>
+		<synonym term="lastname"/>
+		<synonym term="sur name"/>
+		<synonym term="surname"/>
+		<synonym term="family name"/>
+		<synonym term="maiden name"/>
+		<synonym term="phonetic last name"/>
+		<synonym term="second surname"/>
+		<synonym term="last name of account"/>
+		<synonym term="student last name"/>
+		<synonym term="insure last name"/>
+		<synonym term="recipient last name"/>
+		<synonym term="patient last name"/>
+		<synonym term="author last name"/>
+		<synonym term="primary subscriber last name"/>
+		<synonym term="contact last name"/>
+		<node term="family member name">
+			<synonym term="family_member_name"/>
+			<synonym term="parent name"/>
+			<synonym term="father name"/>
+			<synonym term="mother name"/>
+			<synonym term="mum name"/>
+			<synonym term="family contact name"/>
+			<synonym term="dad name"/>
+			<synonym term="child name"/>
+			<synonym term="name of child"/>
+			<synonym term="kid name"/>
+			<synonym term="babys name"/>
+			<synonym term="mother maiden name"/>
+			<synonym term="spouse name"/>
+			<synonym term="husband name"/>
+			<synonym term="wife name"/>
+		</node>
+	</node>
+	<node term="business name">
+		<synonym term="company name"/>
+		<synonym term="business name"/>
+		<synonym term="ship company name"/>
+		<synonym term="name of business"/>
+		<synonym term="corporation name"/>
+		<synonym term="name of organization"/>
+		<synonym term="comapany name"/>
+		<synonym term="vendor name"/>
+		<synonym term="org name"/>
+		<synonym term="organization name"/>
+		<synonym term="office name"/>
+		<synonym term="store name"/>
+		<synonym term="storename"/>
+		<synonym term="name of a store"/>
+		<synonym term="employer name"/>
+		<synonym term="employer"/>
+	</node>
+	<node term="credit card information" ignore="true">
+		<synonym term="credit card data" ignore="true"/>
+		<node term="credit card number">
+			<synonym term="card number"/>
+			<synonym term="cardnumber"/>
+			<synonym term="credit / debit card number"/>
+			<synonym term="credit or debit card number"/>
+			<synonym term="payment card number"/>
+			<synonym term="credit card number on our order form"/>
+			<synonym term="credit card number on our registration form"/>
+			<synonym term="credit-card number"/>
+			<synonym term="credit / debit card number"/>
+			<synonym term="credit or debit card number"/>
+			<synonym term="customer credit card number"/>
+			<synonym term="credit card / debit card number"/>
+			<synonym term="# 1 club or credit card number"/>
+			<synonym term="portion of your credit card number"/>
+			<synonym term="valid credit card number"/>
+			<synonym term="credit card account number"/>
+			<synonym term="credit and debit card number"/>
+			<synonym term="debit card number"/>
+			<synonym term="payment card number"/>
+			<synonym term="valid credit / debit card number"/>
+			<synonym term="number_value_example digit card number"/>
+			<synonym term="digit card number"/>
+			<synonym term="credit card number"/>
+			<synonym term="cc number"/>
+			<synonym term="credit card"/>
+			<synonym term="debit card"/>
+			<synonym term="master card"/>
+			<synonym term="mastercard"/>
+			<synonym term="number of card"/>
+			<synonym term="amex"/>
+			<synonym term="credit_card_example"/>
+		</node>
+		<node term="credit card type">
+			<synonym term="card type"/>
+			<synonym term="credit card type"/>
+		</node>
+		<node term="credit card security code">
+			<synonym term="card code"/>
+			<synonym term="cvc code"/>
+			<synonym term="payment card verification code"/>
+			<synonym term="card verification value on your credit card"/>
+			<synonym term="ccv2"/>
+			<synonym term="cvc2 number"/>
+			<synonym term="cvv verification"/>
+			<synonym term="card security code"/>
+			<synonym term="card security code"/>
+			<synonym term="credit card code"/>
+			<synonym term="cvc code"/>
+			<synonym term="cvc number"/>
+			<synonym term="card cvv"/>
+			<synonym term="cvv number"/>
+			<synonym term="cvv code"/>
+			<synonym term="digit security code"/>
+			<synonym term="card num_digitsdigit security code"/>
+			<synonym term="card digit security code"/>
+			<synonym term="security code for credit"/>
+			<synonym term="cv code"/>
+			<synonym term="code of your credit"/>
+			<synonym term="card verification code"/>
+			<synonym term="cvv"/>
+			<synonym term="cvc"/>
+			<synonym term="ccv"/>
+			<synonym term="securitycodecvv"/>
+		</node>
+		<node term="credit card expiry date">
+			<synonym term="card expiry"/>
+			<synonym term="payment card expiration date"/>
+			<synonym term="credit card expiry date"/>
+			<synonym term="debit card expiration date"/>
+			<synonym term="debit card expiry date"/>
+			<synonym term="credit card expiration"/>
+			<synonym term="card expiration date"/>
+			<synonym term="card expire"/>
+			<synonym term="card expiration"/>
+			<synonym term="cc expiration"/>
+			<synonym term="expiration date"/>
+			<synonym term="expiration date_example"/>
+			<synonym term="expiry date"/>
+			<synonym term="date of expiry"/>
+			<synonym term="date expire"/>
+			<synonym term="expire date"/>
+			<synonym term="exp date"/>
+			<synonym term="exp"/>
+			<synonym term="expiry"/>
+			<synonym term="expire"/>
+			<synonym term="expiration"/>
+			<synonym term="expiry month"/>
+			<synonym term="expiration month"/>
+			<synonym term="expire month"/>
+			<synonym term="expiry year"/>
+			<synonym term="expiration year"/>
+			<synonym term="expire year"/>
+			<synonym term="credit_card_expiration_date"/>
+		</node>
+		<node term="credit card limit">
+			<synonym term="card limit"/>
+			<synonym term="credit limit"/>
+			<synonym term="card balance"/>
+			<synonym term="card value"/>
+		</node>
+	</node>
+	<node term="bank account information" ignore="true">
+		<synonym term="bank account type" ignore="true"/>
+		<node term="bank name">
+			<synonym term="name of bank"/>
+			<synonym term="bankname"/>
+			<synonym term="financial institution"/>
+			<synonym term="issue bank"/>
+			<synonym term="bank bank"/>
+		</node>
+		<node term="bank routing number">
+			<synonym term="bank rout number"/>
+			<synonym term="rout number"/>
+			<synonym term="bank rout"/>
+			<synonym term="rout address"/>
+			<synonym term="bank rout number"/>
+			<synonym term="bank routing"/>
+			<synonym term="bank rout information"/>
+			<synonym term="professional bank rout information"/>
+			<synonym term="aba number"/>
+			<synonym term="swift code"/>
+			<synonym term="ifsc code"/>
+			<synonym term="bank code"/>
+		</node>
+		<node term="check number">
+			<synonym term="checknumber"/>
+		</node>
+		<node term="bank account number">
+			<synonym term="bank number"/>
+			<synonym term="bank or brokerage account number"/>
+			<synonym term="full bank account number"/>
+			<synonym term="bank account"/>
+			<synonym term="debit account"/>
+			<synonym term="account number"/>
+		</node>
+	</node>
+	<node term="loan information" ignore="true">
+		<node term="loan amount">
+			<synonym term="total loan amount"/>
+			<synonym term="loan dollar_sign"/>
+			<synonym term="total loan"/>
+			<synonym term="principal loan"/>
+			<synonym term="mortgage amount"/>
+		</node>
+		<node term="loan term">
+			<synonym term="mortgage amount"/>
+			<synonym term="loan term"/>
+			<synonym term="loan period"/>
+			<synonym term="mortgage term"/>
+			<synonym term="1st mortgage term"/>
+			<synonym term="first mortgage term"/>
+			<synonym term="2nd mortgage term"/>
+			<synonym term="second mortgage term"/>
+			<synonym term="mortgage period"/>
+		</node>
+		<node term="interest rate">
+			<synonym term="int rate"/>
+		</node>
+		<node term="mortgage payment">
+		</node>
+	</node>
+	<node term="license expiry date">
+	</node>
+	<node term="education information" ignore="true">
+		<node term="school name">
+			<synonym term="high school"/>
+			<synonym term="highschool"/>
+			<synonym term="college"/>
+			<synonym term="university"/>
+			<synonym term="school"/>
+		</node>
+		<node term="education level">
+			<synonym term="grade level"/>
+			<synonym term="education status"/>
+			<synonym term="education"/>
+		</node>
+		<node term="graduation year">
+			<synonym term="anticipate graduation year"/>
+		</node>
+		<node term="education degree">
+		</node>
+	</node>
+	<node term="house financial information" ignore="true">
+		<node term="house price">
+			<synonym term="house price"/>
+			<synonym term="cost of property"/>
+			<synonym term="monthly rent"/>
+			<synonym term="property value"/>
+		</node>
+		<node term="property tax">
+			<synonym term="property tax"/>
+			<synonym term="annual property tax"/>
+		</node>
+	</node>
+	<node term="phone information" ignore="true">
+		<node term="service provider">
+			<synonym term="cell provider"/>
+			<synonym term="mobile provider"/>
+			<synonym term="mobile service provider"/>
+			<synonym term="long distance provider"/>
+			<synonym term="mobile carrier"/>
+			<synonym term="name of wireless carrier"/>			
+		</node>
+		<node term="country code">
+		</node>
+		<node term="phone number">
+			<synonym term="phonenumber"/>
+			<synonym term="mobile phone number"/>
+			<synonym term="telephone number"/>
+			<synonym term="main telephone number"/>
+			<synonym term="mobile telephone"/>
+			<synonym term="valid phone number"/>
+			<synonym term="digit phone number"/>
+			<synonym term="domestic phone number"/>
+			<synonym term="cellphone number"/>
+			<synonym term="digit mobile phone number"/>
+			<synonym term="company phone number"/>
+			<synonym term="business phone number"/>
+			<synonym term="driver cell phone number"/>
+			<synonym term="cell phone number"/>
+			<synonym term="home phone number"/>
+			<synonym term="mobile number"/>
+			<synonym term="mobilenumber"/>
+			<synonym term="home number"/>
+			<synonym term="work number"/>
+			<synonym term="mobile phone"/>
+			<synonym term="home phone"/>
+			<synonym term="number_value_example digit mobile phone"/>
+			<synonym term="cell phone"/>
+			<synonym term="cellphone"/>
+			<synonym term="mobile cell phone"/>
+			<synonym term="primary phone"/>
+			<synonym term="land line"/>
+			<synonym term="landline"/>
+			<synonym term="company fax number"/>
+			<synonym term="business fax"/>
+			<synonym term="fax number"/>
+			<synonym term="number_value_example digit phone number"/>
+			<synonym term="contact phone number"/>
+			<synonym term="contact number"/>
+			<synonym term="mobile cell"/>
+			<synonym term="cell number"/>
+			<synonym term="mobile cell number"/>
+			<synonym term="cellular phone"/>
+			<synonym term="work phone"/>
+			<synonym term="country area phone"/>
+			<synonym term="customer mobile number"/>
+			<synonym term="office phone"/>
+			<synonym term="company phone"/>
+			<synonym term="business phone"/>
+			<synonym term="number link to card"/>
+			<synonym term="list phone number"/>
+			<synonym term="call back number"/>
+			<synonym term="callback number"/>
+			<synonym term="contact phone"/>
+			<synonym term="phoneno"/>
+			<synonym term="phone"/>
+			<synonym term="cell"/>
+			<synonym term="fax"/>
+			<synonym term="mobile"/>
+			<synonym term="phone_number_example"/>
+			<synonym term="telephone"/>
+			<synonym term="tel"/>
+			<synonym term="overseas mobile phone"/>
+			<synonym term="landline number"/>
+			<synonym term="overseas office phone"/>
+			<synonym term="home landline"/>
+			<synonym term="person phone"/>
+			<synonym term="alternate phone"/>
+			<synonym term="bussiness phone"/>
+			<synonym term="phone nr"/>
+			<synonym term="customer phone"/>
+			<synonym term="mobile nr"/>
+			<synonym term="secondary phone"/>
+			<synonym term="alternative phone"/>
+			<synonym term="owner phone number"/>
+			<synonym term="owner phone"/>
+			<node term="family contact phone">
+				<synonym term="child mobile"/>
+				<synonym term="mother mobile"/>
+				<synonym term="father mobile"/>
+				<synonym term="kid phone"/>
+				<synonym term="child mobile phone number"/>
+				<synonym term="child mobile number"/>
+			</node>
+		</node>
+	</node>
+	<node term="location information" ignore="true">
+		<node term="country">
+			<synonym term="country"/>
+			<synonym term="country of origin"/>
+			<synonym term="present country"/>
+			<synonym term="country of residence"/>
+			<synonym term="country name"/>
+			<synonym term="issue country"/>
+			<synonym term="country setting"/>
+			<synonym term="home country"/>
+			<synonym term="country of birth"/>
+			<synonym term="destination country"/>
+			<synonym term="company country"/>
+			<synonym term="business country"/>
+			<synonym term="purchase country"/>
+			<synonym term="operator country"/>
+			<synonym term="recipient country"/>
+			<synonym term="country of registration"/>
+			<synonym term="member country"/>
+			<synonym term="preferred country"/>
+			<synonym term="mailing address country"/>
+			<synonym term="country of installation"/>
+			<synonym term="region"/>
+			<node term="state">
+				<synonym term="state"/>
+				<synonym term="province"/>
+				<synonym term="state name"/>
+				<synonym term="home state"/>
+				<synonym term="driver license state"/>
+				<synonym term="license state"/>
+				<synonym term="state licence"/>
+				<synonym term="license plate state"/>
+				<synonym term="lic plate state"/>
+				<synonym term="plate state"/>
+				<node term="county">
+					<synonym term="county"/>
+					<synonym term="county of business"/>
+					<synonym term="county"/>
+					<node term="city">
+						<synonym term="town"/>
+						<synonym term="city name"/>
+						<synonym term="company city"/>
+						<synonym term="available city"/>
+						<synonym term="home city"/>
+						<synonym term="business city"/>
+						<synonym term="mail city"/>
+						<synonym term="source city"/>
+						<synonym term="ship city"/>
+						<synonym term="name of a city"/>
+						<synonym term="bill city"/>
+						<synonym term="present city"/>
+						<synonym term="town name"/>
+						<synonym term="name of town"/>
+						<synonym term="business town"/>
+						<synonym term="destination city"/>
+						<synonym term="departure city"/>
+						<node term="zip code">
+							<synonym term="zip code"/>
+							<synonym term="zipcode"/>
+							<synonym term="company zip code"/>
+							<synonym term="bill zip code"/>
+							<synonym term="bill post code"/>
+							<synonym term="post code"/>
+							<synonym term="postcode"/>
+							<synonym term="postal code"/>
+							<synonym term="postalcode"/>
+							<synonym term="business postal code"/>
+							<synonym term="shipping zip"/>
+							<synonym term="home zip"/>
+							<synonym term="destination zip"/>
+							<synonym term="business zip"/>
+							<synonym term="zip of service"/>
+							<synonym term="school zipcode"/>
+							<synonym term="billing zip"/>
+							<synonym term="zip"/>
+							<synonym term="home postcode"/>
+							<synonym term="postal"/>
+							<node term="postal address">
+								<synonym term="postal address"/>
+								<synonym term="delivery address"/>
+								<synonym term="ship address"/>
+								<synonym term="physical address"/>
+								<synonym term="mailing address"/>
+								<synonym term="address" ignore="true"/>
+								<synonym term="mail address"/>
+								<synonym term="bill address"/>
+								<synonym term="start address"/>
+								<synonym term="start addr"/>
+								<synonym term="destination address"/>
+								<synonym term="destination addr"/>
+								<synonym term="address line"/>
+								<synonym term="addressline"/>
+								<synonym term="work address"/>
+								<synonym term="company address"/>
+								<synonym term="business address"/>
+								<synonym term="po box number"/>
+								<synonym term="po box"/>
+								<synonym term="street address"/>
+								<synonym term="street address number_value_example"/>
+								<synonym term="street suffix"/>
+								<synonym term="cc street address"/>
+								<synonym term="pickup street address"/>
+								<synonym term="street nbr"/>
+								<synonym term="street address line number_value_example"/>
+								<synonym term="company street"/>
+								<synonym term="street number"/>
+								<synonym term="shipping address"/>
+								<synonym term="street number_value_example"/>
+								<synonym term="street name"/>
+								<synonym term="shot at address"/>
+								<synonym term="permanent address"/>
+								<synonym term="mail address number_value_example"/>
+								<synonym term="dropoff address"/>
+								<synonym term="billing address number_value_example"/>
+								<synonym term="pickup address"/>
+								<synonym term="billing address"/>
+								<synonym term="address line number_value_example"/>
+								<synonym term="office address"/>
+								<synonym term="business addrss"/>
+								<synonym term="store address"/>
+								<synonym term="place address"/>
+								<synonym term="st name"/>
+								<synonym term="customer address"/>
+								<synonym term="home address"/>
+								<synonym term="current address"/>
+								<synonym term="service address"/>
+								<synonym term="address line number number_value_example"/>
+								<synonym term="property address"/>
+								<synonym term="residential address"/>
+								<synonym term="employer address"/>
+								<synonym term="drop address"/>
+								<synonym term="primary address"/>
+								<synonym term="property address"/>
+								<synonym term="work place"/>
+								<synonym term="financial institution address"/>
+								<synonym term="location address"/>
+								<synonym term="street"/>
+								<synonym term="address number"/>
+								<synonym term="residence"/>
+								<synonym term="house number"/>
+								<synonym term="postal location"/>
+								<synonym term="current location"/>
+								<synonym term="drop off location"/>
+								<synonym term="pickup location"/>
+								<synonym term="geolocation name"/>
+								<synonym term="location name"/>
+								<synonym term="geo location"/>
+								<synonym term="geolocation"/>
+								<synonym term="shot at location"/>
+								<synonym term="dropoff location"/>
+								<synonym term="pharmacy location"/>
+								<node term="apartment number">
+									<synonym term="room number"/>
+									<synonym term="apt number"/>
+									<synonym term="suite"/>
+									<synonym term="room"/>
+									<synonym term="apartment"/>
+									<synonym term="apt"/>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+		</node>
+		<node term="latitude and longitude">
+			<synonym term="latitude"/>
+			<synonym term="lat"/>
+			<synonym term="longitude"/>
+		</node>
+	</node>
+	<node term="demographic information" ignore="true">
+		<synonym term="demography" ignore="true"/>
+		<node term="ethnicity">
+			<synonym term="ethnic group"/>
+			<synonym term="race" ignore="true"/>
+			<synonym term="ethnicity group"/>
+			<synonym term="ethnic origin"/>
+			<synonym term="ethnic background"/>
+			<synonym term="information about your race"/>
+			<synonym term="racial or ethnic origin"/>
+			<synonym term="racial and ethnic origin"/>
+			<synonym term="information about racial or ethnic origin"/>
+			<synonym term="ethnicity region"/>
+		</node>
+		<node term="gender">
+			<synonym term="sex"/>
+			<synonym term="male"/>
+			<synonym term="female"/>
+			<synonym term="man"/>
+			<synonym term="woman"/>
+			<synonym term="person gender"/>
+		</node>
+		<node term="political affiliation">
+			<synonym term="party affiliation"/>
+			<synonym term="political preference"/>
+			<synonym term="political belief"/>
+			<synonym term="political view"/>
+			<synonym term="political association"/>
+			<synonym term="membership of political association"/>
+			<synonym term="political opinion"/>
+			<synonym term="political affiliation"/>
+			<synonym term="political orientation"/>
+			<synonym term="political or topical view"/>
+		</node>
+	</node>
+	<node term="citizenship">
+		<synonym term="nationality"/>
+		<node term="place of birth">
+			<synonym term="birth place"/>
+			<synonym term="birthplace"/>
+			<node term="parent birth place">
+				<synonym term="mother birth place"/>
+				<synonym term="mother birthplace"/>
+				<synonym term="father birth place"/>
+				<synonym term="father birthplace"/>
+			</node>
+		</node>
+	</node>
+	<node term="person age">
+		<synonym term="age" ignore="true"/>
+		<synonym term="age range"/>
+		<synonym term="age bucket"/>
+		<synonym term="user age range"/>
+		<synonym term="family age range"/>
+		<synonym term="age level"/>	
+		<synonym term="age group"/>
+		<synonym term="year old"/>
+		<node term="birthdate">
+			<synonym term="birth date"/>
+			<synonym term="date of birth"/>
+			<synonym term="birth day"/>
+			<synonym term="birthday"/>
+			<synonym term="date-of-birth"/>
+			<synonym term="dateofbirth"/>
+			<synonym term="adult dob"/>
+			<synonym term="subscriber date of birth"/>
+			<synonym term="dob"/>
+			<synonym term="time of birth"/>
+			<synonym term="birth year"/>
+			<synonym term="year of birth"/>
+			<synonym term="year of birth"/>
+			<synonym term="birth month"/>
+			<synonym term="birthmonth"/>
+			<synonym term="birth-month"/>
+		</node>
+	</node>
+	<node term="social media url">
+		<synonym term="linkedin url"/>
+		<synonym term="linkedin page"/>
+		<synonym term="twitter address"/>
+		<synonym term="social medium account"/>
+		<synonym term="social medium profile"/>
+		<synonym term="facebook url"/>
+		<synonym term="facebook address"/>
+		<synonym term="facebook page"/>
+		<synonym term="twitter url"/>
+	</node>
+	<node term="mac address">
+		<synonym term="mac"/>
+		<synonym term="macaddress"/>
+		<synonym term="bssid"/>
+		<synonym term="mac-address"/>
+		<synonym term="medium access control"/>
+		<synonym term="medium access control address"/>
+		<synonym term="device mac address"/>
+		<synonym term="wifi / cellular mac address"/>
+		<synonym term="mac addresses"/>
+		<synonym term="ethernet mac address"/>
+		<synonym term="media access control address"/>
+		<synonym term="wifi mac address"/>
+		<synonym term="wifi mac address in your area"/>
+		<synonym term="bluetooth mac address"/>
+	</node>
+	<node term="id number">
+	</node>
+	<node term="passport number">
+	</node>
+	<node term="medicaid number">
+	</node>
+	<node term="social security number">
+		<synonym term="number_value_example digit of ssn"/>
+		<synonym term="last number_value_example of ssn"/>
+		<synonym term="last number_value_example ssn"/>
+		<synonym term="government-issue social security number"/>
+		<synonym term="ssn"/>
+		<synonym term="tax id"/>
+		<synonym term="tax identifier number"/>
+		<synonym term="tax identification number"/>
+		<synonym term="tax id number"/>
+		<synonym term="ein"/>
+		<synonym term="fein"/>
+	</node>
+	<node term="marital status">
+		<synonym term="married status"/>
+		<synonym term="relationship status"/>
+		<synonym term="marital"/>
+		<synonym term="marital or familial status"/>
+		<synonym term="relationship interest"/>
+	</node>
+	<node term="marriage data">
+	</node>
+	<node term="sexual orientation">
+		<synonym term="sexual orientation information"/>
+		<synonym term="sexual preference"/>
+		<synonym term="sexual stat"/>
+		<synonym term="gender interest"/>
+		<synonym term="sexual affiliation"/>
+	</node>
+	<node term="sexual history">
+		<synonym term="sexual life"/>
+		<synonym term="sexual activity"/>
+	</node>
+	<node term="religion">
+		<synonym term="religious belief"/>
+		<synonym term="religious or philosophical belief"/>
+		<synonym term="religious or philosophical view"/>
+		<synonym term="religious belief"/>
+		<synonym term="philosophical belief"/>
+		<synonym term="religious denomination"/>
+		<synonym term="religious affiliation"/>
+	</node>
+	<node term="salary">
+		<synonym term="taxable income"/>
+		<synonym term="income level"/>
+		<synonym term="salary range"/>
+		<synonym term="current income level"/>
+		<synonym term="household income"/>
+		<synonym term="annual income"/>
+		<synonym term="income range"/>
+		<synonym term="household income range"/>
+		<synonym term="income"/>
+		<synonym term="net income"/>
+		<synonym term="gross income"/>
+		<synonym term="income"/>
+		<synonym term="annual salary"/>
+		<synonym term="net salary"/>
+		<synonym term="monthly salary"/>
+		<synonym term="salary dollar_sign"/>
+		<synonym term="salary per hour"/>
+		<synonym term="income amount"/>
+		<synonym term="monthly income"/>
+		<synonym term="wage per hour"/>
+		<synonym term="hourly pay"/>
+		<synonym term="hourly pay dollar_sign"/>
+		<synonym term="wage"/>
+		<synonym term="income bracket"/>
+		<synonym term="pension amount"/>
+		<synonym term="additional pension"/>
+		<synonym term="current pension"/>
+	</node>
+	<node term="occupation">
+		<synonym term="job title"/>
+		<synonym term="target job title"/>
+		<synonym term="recent job title"/>
+		<synonym term="job"/>
+		<synonym term="profession"/>
+		<synonym term="employment"/>
+	</node>
+	<node term="blood pressure">
+		<synonym term="systolic blood pressure"/>
+		<synonym term="diastolic blood pressure"/>
+		<synonym term="systolic bp"/>
+		<synonym term="diastolic bp"/>
+		<synonym term="pulse pressure differential"/>
+		<synonym term="bp"/>
+		<synonym term="systolic"/>
+		<synonym term="diastolic"/>
+	</node>
+	<node term="blood glucose level">
+		<synonym term="blood glucose"/>
+		<synonym term="blood sugar"/>
+		<synonym term="blood sugar level"/>
+		<synonym term="glucose reading"/>
+	</node>
+	<node term="blood type">
+		<synonym term="blood group"/>
+	</node>
+	<node term="blood oxygen level">
+	</node>
+	<node term="pregnancy test">
+	</node>
+	<node term="medical record number">
+		<synonym term="kaiser permanente health / medical record number"/>
+	</node>
+	<node term="medical provider">
+		<synonym term="institutional or medical provider"/>
+		<synonym term="medical organization"/>
+		<synonym term="medical facility"/>
+		<synonym term="healthcare specialist"/>
+		<synonym term="healthcare provider / practice information"/>
+		<synonym term="healthcare provider / practice detail"/>
+		<synonym term="healthcare provider"/>
+		<synonym term="health care provider"/>
+		<synonym term="healthcare providers"/>
+		<synonym term="healthcare professional"/>
+		<synonym term="physician name"/>
+		<synonym term="physician's name"/>
+		<synonym term="physician"/>
+		<synonym term="doctor"/>
+		<synonym term="regular doctor"/>
+		<synonym term="primary doctor"/>
+		<synonym term="dentist"/>
+	</node>
+	<node term="heart rate">
+		<synonym term="pulse rate"/>
+	</node>
+	<node term="body mass index">
+		<synonym term="bmi"/>
+	</node>
+	<node term="medication name">
+		<synonym term="medicine name"/>
+		<synonym term="drug name"/>
+		<synonym term="drugname"/>
+		<synonym term="prescription number_value_example"/>
+		<synonym term="drug"/>
+		<synonym term="medication"/>
+		<synonym term="medicine"/>
+		<synonym term="prescription"/>
+	</node>
+	<node term="prescription number">
+		<synonym term="rx number"/>
+		<synonym term="perscription number"/>
+	</node>
+	<node term="drug dosage">
+		<synonym term="dosage"/>
+		<synonym term="dose"/>
+	</node>
+	<node term="license plate number">
+		<synonym term="license plate"/>
+		<synonym term="car plate"/>
+		<synonym term="lic plate number"/>
+		<synonym term="plate number"/>
+	</node>
+	<node term="driver license number">
+		<synonym term="driver licence number"/>
+		<synonym term="license number"/>
+		<synonym term="licence number"/>
+		<synonym term="driver license"/>
+		<synonym term="driver lic"/>
+		<synonym term="driver id"/>
+		<synonym term="driver licence"/>
+	</node>
+	<node term="student id">
+		<synonym term="student identification number"/>
+		<synonym term="student id number"/> 
+	</node>
+	<node term="household size">
+		<synonym term="number of household member"/>
+		<synonym term="number of child"/>
+	</node>
+	<node term="vehicle identification number">
+		<synonym term="vehicle vin"/>
+		<synonym term="vin number"/>
+		<synonym term="car vin"/>
+		<synonym term="vin"/>
+	</node>
+	<node term="vehicle registration number">
+		<synonym term="car registration"/>
+		<synonym term="car registration number"/>
+		<synonym term="vehicle reg"/>
+	</node>
+	<node term="vehicle make">
+		<synonym term="car make"/>
+		<synonym term="vehicle manufacturer"/>
+		<synonym term="car model"/>
+		<synonym term="vehicle type"/>
+	</node>
+	<node term="vehicle speed">
+		<synonym term="speed of your vehicle"/>
+		<synonym term="speed of travel"/>
+		<synonym term="actual or approximate speed of your vehicle"/>
+		<synonym term="vehicle speed"/>
+	</node>
+	<node term="vehicle mileage">
+		<synonym term="odometer read"/>
+		<synonym term="odometer stop"/>
+		<synonym term="odometer start"/>
+		<synonym term="mileage"/>
+		<synonym term="exact mile"/>
+	</node>
+	<node term="vehicle year">
+		<synonym term="vehicle year"/>
+		<synonym term="car year"/>
+	</node>
+	<node term="vehicle price">
+		<synonym term="car value"/>
+	</node>
+	<node term="serial number">
+	</node>
+	<node term="device id">
+		<synonym term="deviceid"/>
+		<synonym term="imei number"/>
+		<synonym term="imei"/>
+		<synonym term="iccid"/>
+		<synonym term="main device id"/>
+		<synonym term="android id"/>
+		<synonym term="mobile device identifier"/>
+		<synonym term="network service provider identifier"/>
+	</node>
+	<node term="sim card">
+		<synonym term="sim card serial number"/>
+		<synonym term="sim number"/>
+	</node>
+	<node term="phone make">
+		<synonym term="device make"/>
+		<synonym term="device model"/>
+		<synonym term="phone model"/>
+	</node>
+	<node term="wifi ssid">
+		<synonym term="network ssid"/>
+		<synonym term="wifi name"/>
+		<synonym term="bssid ssid"/>
+		<synonym term="ssid"/>
+		<synonym term="name of this router"/>
+	</node>
+	<node term="person weight">
+		<synonym term="person_weight"/>
+		<synonym term="birth weight"/>
+		<synonym term="current weight"/>
+		<synonym term="actual weight"/>
+		<synonym term="target weight"/>
+		<synonym term="end weight"/>
+		<synonym term="weight goal"/>
+		<synonym term="goal weight"/>
+		<synonym term="start weight"/>
+		<synonym term="begin weight"/>
+		<synonym term="pre pregnancy weight"/>
+		<synonym term="body weight"/>
+		<synonym term="patient weight"/>
+		<synonym term="weight" ignore="true"/>
+	</node>
+	<node term="person height">
+		<synonym term="patient height"/>
+		<synonym term="height" ignore="true"/>
+	</node>
+	<node term="native language">
+		<synonym term="primary language"/>
+		<synonym term="language speak"/>
+		<synonym term="preferred language"/>
+	</node>
+	<node term="flight number">
+	</node>
+	<node term="health insurance provider">
+	</node>
+	<node term="insurance carrier">
+		<synonym term="insurance agency"/>
+		<synonym term="insurance provider"/>
+		<synonym term="insurance company"/>
+	</node>
+	<node term="insurance policy number">
+		<synonym term="national insurance number"/>
+		<synonym term="insurance policy"/>
+		<synonym term="policy number"/>
+		<synonym term="policynumber"/>
+		<synonym term="insurance number"/>
+	</node>
+</node>

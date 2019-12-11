@@ -1,0 +1,799 @@
+address,1,postal address
+address,2,postal address
+address,3,postal address
+address,4,postal address
+address,5,postal address
+address,6,UNKNOWN
+address,7,ip address
+address,8,UNKNOWN
+address,9,postal address
+address,10,postal address
+address,11,UNKNOWN
+address,12,UNKNOWN
+address,13,postal address
+address,14,UNKNOWN
+address,15,UNKNOWN
+address,16,postal address
+address,17,postal address
+address,18,UNKNOWN
+address,19,postal address
+address,20,postal address
+address,21,UNKNOWN
+address,22,UNKNOWN
+address,23,postal address
+address,24,UNKNOWN
+address,25,UNKNOWN
+adress,1,postal address
+adress,2,ip address
+adress,3,UNKNOWN
+adress,4,UNKNOWN
+adress,5,UNKNOWN
+adress,6,UNKNOWN
+adress,7,UNKNOWN
+adress,8,UNKNOWN
+adress,9,UNKNOWN
+adress,10,UNKNOWN
+adress,11,UNKNOWN
+adress,12,UNKNOWN
+adress,13,UNKNOWN
+adress,14,UNKNOWN
+adress,15,UNKNOWN
+adress,16,UNKNOWN
+adress,17,UNKNOWN
+adress,18,UNKNOWN
+adress,19,UNKNOWN
+adress,20,UNKNOWN
+adress,21,UNKNOWN
+adress,22,UNKNOWN
+adress,23,UNKNOWN
+adress,24,UNKNOWN
+adress,25,UNKNOWN
+cc,1,credit card
+cc,2,UNKNOWN
+cc,3,UNKNOWN
+cc,4,email address
+cc,5,email address
+cc,6,UNKNOWN
+cc,7,UNKNOWN
+cc,8,UNKNOWN
+cc,9,UNKNOWN
+cc,10,UNKNOWN
+cc,11,UNKNOWN
+cc,12,UNKNOWN
+cc,13,UNKNOWN
+cc,14,UNKNOWN
+cc,15,UNKNOWN
+cc,16,UNKNOWN
+cc,17,UNKNOWN
+cc,18,UNKNOWN
+cc,19,UNKNOWN
+cc,20,UNKNOWN
+cc,21,UNKNOWN
+cc,22,UNKNOWN
+cc,23,UNKNOWN
+cc,24,UNKNOWN
+cc,25,UNKNOWN
+weight,1,UNKNOWN
+weight,2,person weight
+weight,3,product weight
+weight,4,person weight
+weight,5,person weight
+weight,6,UNKNOWN
+weight,7,UNKNOWN
+weight,8,person weight
+weight,9,person weight
+weight,10,person weight
+weight,11,UNKNOWN
+weight,12,UNKNOWN
+weight,13,UNKNOWN
+weight,14,UNKNOWN
+weight,15,UNKNOWN
+weight,16,UNKNOWN
+weight,17,UNKNOWN
+weight,18,UNKNOWN
+weight,19,UNKNOWN
+weight,20,UNKNOWN
+weight,21,UNKNOWN
+weight,22,UNKNOWN
+weight,23,UNKNOWN
+weight,24,UNKNOWN
+weight,25,UNKNOWN
+lb,1,UNKNOWN
+lb,2,UNKNOWN
+lb,3,UNKNOWN
+lb,4,person weight
+lb,5,UNKNOWN
+lb,6,UNKNOWN
+lb,7,UNKNOWN
+lb,8,UNKNOWN
+lb,9,UNKNOWN
+lb,10,UNKNOWN
+lb,11,UNKNOWN
+lb,12,UNKNOWN
+lb,13,UNKNOWN
+lb,14,UNKNOWN
+lb,15,UNKNOWN
+lb,16,UNKNOWN
+lb,17,UNKNOWN
+lb,18,UNKNOWN
+lb,19,UNKNOWN
+lb,20,UNKNOWN
+lb,21,UNKNOWN
+lb,22,UNKNOWN
+lb,23,UNKNOWN
+lb,24,UNKNOWN
+lb,25,UNKNOWN
+lbs,1,UNKNOWN
+lbs,2,UNKNOWN
+lbs,3,UNKNOWN
+lbs,4,UNKNOWN
+lbs,5,UNKNOWN
+lbs,6,UNKNOWN
+lbs,7,UNKNOWN
+lbs,8,UNKNOWN
+lbs,9,UNKNOWN
+lbs,10,UNKNOWN
+lbs,11,UNKNOWN
+lbs,12,UNKNOWN
+lbs,13,UNKNOWN
+lbs,14,UNKNOWN
+lbs,15,UNKNOWN
+lbs,16,UNKNOWN
+lbs,17,UNKNOWN
+lbs,18,UNKNOWN
+lbs,19,UNKNOWN
+lbs,20,UNKNOWN
+lbs,21,UNKNOWN
+lbs,22,UNKNOWN
+lbs,23,UNKNOWN
+lbs,24,UNKNOWN
+lbs,25,UNKNOWN
+kg,1,UNKNOWN
+kg,2,UNKNOWN
+kg,3,UNKNOWN
+kg,4,UNKNOWN
+kg,5,person weight
+kg,6,person weight
+kg,7,UNKNOWN
+kg,8,UNKNOWN
+kg,9,UNKNOWN
+kg,10,UNKNOWN
+kg,11,UNKNOWN
+kg,12,UNKNOWN
+kg,13,UNKNOWN
+kg,14,UNKNOWN
+kg,15,UNKNOWN
+kg,16,UNKNOWN
+kg,17,UNKNOWN
+kg,18,UNKNOWN
+kg,19,UNKNOWN
+kg,20,UNKNOWN
+kg,21,UNKNOWN
+kg,22,UNKNOWN
+kg,23,UNKNOWN
+kg,24,UNKNOWN
+kg,25,UNKNOWN
+kgs,1,UNKNOWN
+kgs,2,UNKNOWN
+kgs,3,UNKNOWN
+kgs,4,UNKNOWN
+kgs,5,UNKNOWN
+kgs,6,UNKNOWN
+kgs,7,UNKNOWN
+kgs,8,UNKNOWN
+kgs,9,UNKNOWN
+kgs,10,UNKNOWN
+kgs,11,UNKNOWN
+kgs,12,UNKNOWN
+kgs,13,UNKNOWN
+kgs,14,UNKNOWN
+kgs,15,UNKNOWN
+kgs,16,UNKNOWN
+kgs,17,UNKNOWN
+kgs,18,UNKNOWN
+kgs,19,UNKNOWN
+kgs,20,UNKNOWN
+kgs,21,UNKNOWN
+kgs,22,UNKNOWN
+kgs,23,UNKNOWN
+kgs,24,UNKNOWN
+kgs,25,UNKNOWN
+height,1,UNKNOWN
+height,2,UNKNOWN
+height,3,UNKNOWN
+height,4,person height
+height,5,UNKNOWN
+height,6,UNKNOWN
+height,7,person height
+height,8,UNKNOWN
+height,9,UNKNOWN
+height,10,UNKNOWN
+height,11,UNKNOWN
+height,12,UNKNOWN
+height,13,UNKNOWN
+height,14,UNKNOWN
+height,15,UNKNOWN
+height,16,UNKNOWN
+height,17,UNKNOWN
+height,18,UNKNOWN
+height,19,UNKNOWN
+height,20,UNKNOWN
+height,21,UNKNOWN
+height,22,UNKNOWN
+height,23,UNKNOWN
+height,24,UNKNOWN
+height,25,UNKNOWN
+ft,1,UNKNOWN
+ft,2,UNKNOWN
+ft,3,UNKNOWN
+ft,4,UNKNOWN
+ft,5,person height
+ft,6,UNKNOWN
+ft,7,UNKNOWN
+ft,8,UNKNOWN
+ft,9,UNKNOWN
+ft,10,UNKNOWN
+ft,11,UNKNOWN
+ft,12,UNKNOWN
+ft,13,UNKNOWN
+ft,14,UNKNOWN
+ft,15,UNKNOWN
+ft,16,UNKNOWN
+ft,17,UNKNOWN
+ft,18,UNKNOWN
+ft,19,UNKNOWN
+ft,20,UNKNOWN
+ft,21,UNKNOWN
+ft,22,UNKNOWN
+ft,23,UNKNOWN
+ft,24,UNKNOWN
+ft,25,UNKNOWN
+feet,1,UNKNOWN
+feet,2,UNKNOWN
+feet,3,UNKNOWN
+feet,4,UNKNOWN
+feet,5,UNKNOWN
+feet,6,UNKNOWN
+feet,7,UNKNOWN
+feet,8,UNKNOWN
+feet,9,UNKNOWN
+feet,10,UNKNOWN
+feet,11,UNKNOWN
+feet,12,UNKNOWN
+feet,13,UNKNOWN
+feet,14,UNKNOWN
+feet,15,UNKNOWN
+feet,16,UNKNOWN
+feet,17,UNKNOWN
+feet,18,UNKNOWN
+feet,19,UNKNOWN
+feet,20,UNKNOWN
+feet,21,UNKNOWN
+feet,22,UNKNOWN
+feet,23,UNKNOWN
+feet,24,UNKNOWN
+feet,25,UNKNOWN
+ftin,1,UNKNOWN
+ftin,2,UNKNOWN
+ftin,3,UNKNOWN
+ftin,4,UNKNOWN
+ftin,5,UNKNOWN
+ftin,6,UNKNOWN
+ftin,7,UNKNOWN
+ftin,8,UNKNOWN
+ftin,9,UNKNOWN
+ftin,10,UNKNOWN
+ftin,11,UNKNOWN
+ftin,12,UNKNOWN
+ftin,13,UNKNOWN
+ftin,14,UNKNOWN
+ftin,15,UNKNOWN
+ftin,16,UNKNOWN
+ftin,17,UNKNOWN
+ftin,18,UNKNOWN
+ftin,19,UNKNOWN
+ftin,20,UNKNOWN
+ftin,21,UNKNOWN
+ftin,22,UNKNOWN
+ftin,23,UNKNOWN
+ftin,24,UNKNOWN
+ftin,25,UNKNOWN
+inch,1,UNKNOWN
+inch,2,person height
+inch,3,UNKNOWN
+inch,4,UNKNOWN
+inch,5,person height
+inch,6,UNKNOWN
+inch,7,UNKNOWN
+inch,8,UNKNOWN
+inch,9,UNKNOWN
+inch,10,UNKNOWN
+inch,11,UNKNOWN
+inch,12,UNKNOWN
+inch,13,UNKNOWN
+inch,14,UNKNOWN
+inch,15,UNKNOWN
+inch,16,UNKNOWN
+inch,17,UNKNOWN
+inch,18,UNKNOWN
+inch,19,UNKNOWN
+inch,20,UNKNOWN
+inch,21,UNKNOWN
+inch,22,UNKNOWN
+inch,23,UNKNOWN
+inch,24,UNKNOWN
+inch,25,UNKNOWN
+cm,1,UNKNOWN
+cm,2,UNKNOWN
+cm,3,UNKNOWN
+cm,4,UNKNOWN
+cm,5,UNKNOWN
+cm,6,person height
+cm,7,person height
+cm,8,UNKNOWN
+cm,9,UNKNOWN
+cm,10,UNKNOWN
+cm,11,UNKNOWN
+cm,12,UNKNOWN
+cm,13,UNKNOWN
+cm,14,UNKNOWN
+cm,15,UNKNOWN
+cm,16,UNKNOWN
+cm,17,UNKNOWN
+cm,18,UNKNOWN
+cm,19,UNKNOWN
+cm,20,UNKNOWN
+cm,21,UNKNOWN
+cm,22,UNKNOWN
+cm,23,UNKNOWN
+cm,24,UNKNOWN
+cm,25,UNKNOWN
+number,1,UNKNOWN
+number,2,phone number
+number,3,phone number
+number,4,UNKNOWN
+number,5,UNKNOWN
+number,6,credit card number
+number,7,UNKNOWN
+number,8,UNKNOWN
+number,9,credit card number
+number,10,credit card number
+number,11,phone number
+number,12,UNKNOWN
+number,13,UNKNOWN
+number,14,UNKNOWN
+number,15,UNKNOWN
+number,16,phone number
+number,17,UNKNOWN
+number,18,phone number
+number,19,phone number
+number,20,UNKNOWN
+number,21,UNKNOWN
+number,22,UNKNOWN
+number,23,UNKNOWN
+number,24,credit card number
+number,25,UNKNOWN
+age,1,UNKNOWN
+age,2,UNKNOWN
+age,3,UNKNOWN
+age,4,person age
+age,5,UNKNOWN
+age,6,person age
+age,7,person age
+age,8,UNKNOWN
+age,9,person age
+age,10,person age
+age,11,person age
+age,12,person age
+age,13,UNKNOWN
+age,14,UNKNOWN
+age,15,UNKNOWN
+age,16,UNKNOWN
+age,17,UNKNOWN
+age,18,UNKNOWN
+age,19,UNKNOWN
+age,20,UNKNOWN
+age,21,UNKNOWN
+age,22,UNKNOWN
+age,23,UNKNOWN
+age,24,UNKNOWN
+age,25,UNKNOWN
+race,1,UNKNOWN
+race,2,person race
+race,3,UNKNOWN
+race,4,UNKNOWN
+race,5,UNKNOWN
+race,6,UNKNOWN
+race,7,UNKNOWN
+race,8,UNKNOWN
+race,9,UNKNOWN
+race,10,UNKNOWN
+race,11,UNKNOWN
+race,12,UNKNOWN
+race,13,UNKNOWN
+race,14,UNKNOWN
+race,15,UNKNOWN
+race,16,UNKNOWN
+race,17,UNKNOWN
+race,18,UNKNOWN
+race,19,UNKNOWN
+race,20,UNKNOWN
+race,21,UNKNOWN
+race,22,UNKNOWN
+race,23,UNKNOWN
+race,24,UNKNOWN
+race,25,UNKNOWN
+name,1,person name
+name,2,person name
+name,3,person name
+name,4,UNKNOWN
+name,5,person name
+name,6,UNKNOWN
+name,7,person name
+name,8,person name
+name,9,person name
+name,10,UNKNOWN
+name,11,person name
+name,12,UNKNOWN
+name,13,UNKNOWN
+name,14,person name
+name,15,person name
+name,16,person name
+name,17,UNKNOWN
+name,18,UNKNOWN
+name,19,UNKNOWN
+name,20,person name
+name,21,UNKNOWN
+name,22,person name
+name,23,UNKNOWN
+name,24,UNKNOWN
+name,25,UNKNOWN
+first,1,person name
+first,2,person name
+first,3,person name
+first,4,person name
+first,5,UNKNOWN
+first,6,person name
+first,7,UNKNOWN
+first,8,UNKNOWN
+first,9,UNKNOWN
+first,10,UNKNOWN
+first,11,person name
+first,12,UNKNOWN
+first,13,UNKNOWN
+first,14,UNKNOWN
+first,15,person name
+first,16,UNKNOWN
+first,17,person name
+first,18,UNKNOWN
+first,19,UNKNOWN
+first,20,UNKNOWN
+first,21,person name
+first,22,person name
+first,23,person name
+first,24,UNKNOWN
+first,25,person name
+middle,1,person name
+middle,2,UNKNOWN
+middle,3,UNKNOWN
+middle,4,UNKNOWN
+middle,5,UNKNOWN
+middle,6,UNKNOWN
+middle,7,UNKNOWN
+middle,8,UNKNOWN
+middle,9,UNKNOWN
+middle,10,UNKNOWN
+middle,11,UNKNOWN
+middle,12,UNKNOWN
+middle,13,UNKNOWN
+middle,14,UNKNOWN
+middle,15,UNKNOWN
+middle,16,UNKNOWN
+middle,17,UNKNOWN
+middle,18,UNKNOWN
+middle,19,UNKNOWN
+middle,20,UNKNOWN
+middle,21,UNKNOWN
+middle,22,UNKNOWN
+middle,23,UNKNOWN
+middle,24,UNKNOWN
+middle,25,UNKNOWN
+last,1,person name
+last,2,person name
+last,3,UNKNOWN
+last,4,person name
+last,5,person name
+last,6,person name
+last,7,UNKNOWN
+last,8,UNKNOWN
+last,9,person name
+last,10,UNKNOWN
+last,11,person name
+last,12,UNKNOWN
+last,13,person name
+last,14,person name
+last,15,UNKNOWN
+last,16,person name
+last,17,person name
+last,18,UNKNOWN
+last,19,UNKNOWN
+last,20,person name
+last,21,UNKNOWN
+last,22,UNKNOWN
+last,23,UNKNOWN
+last,24,UNKNOWN
+last,25,UNKNOWN
+code,1,credit card security code
+code,2,UNKNOWN
+code,3,UNKNOWN
+code,4,UNKNOWN
+code,5,credit card security code
+code,6,phone_number
+code,7,UNKNOWN
+code,8,UNKNOWN
+code,9,UNKNOWN
+code,10,UNKNOWN
+code,11,UNKNOWN
+code,12,UNKNOWN
+code,13,UNKNOWN
+code,14,UNKNOWN
+code,15,UNKNOWN
+code,16,UNKNOWN
+code,17,UNKNOWN
+code,18,UNKNOWN
+code,19,UNKNOWN
+code,20,UNKNOWN
+code,21,UNKNOWN
+code,22,UNKNOWN
+code,23,credit card security code
+code,24,UNKNOWN
+code,25,UNKNOWN
+ph,1,UNKNOWN
+ph,2,UNKNOWN
+ph,3,UNKNOWN
+ph,4,phone number
+ph,5,UNKNOWN
+ph,6,UNKNOWN
+ph,7,UNKNOWN
+ph,8,UNKNOWN
+ph,9,UNKNOWN
+ph,10,UNKNOWN
+ph,11,UNKNOWN
+ph,12,UNKNOWN
+ph,13,UNKNOWN
+ph,14,UNKNOWN
+ph,15,UNKNOWN
+ph,16,UNKNOWN
+ph,17,UNKNOWN
+ph,18,UNKNOWN
+ph,19,UNKNOWN
+ph,20,UNKNOWN
+ph,21,UNKNOWN
+ph,22,UNKNOWN
+ph,23,UNKNOWN
+ph,24,UNKNOWN
+ph,25,UNKNOWN
+location,1,geographical location
+location,2,UNKNOWN
+location,3,UNKNOWN
+location,4,UNKNOWN
+location,5,UNKNOWN
+location,6,UNKNOWN
+location,7,UNKNOWN
+location,8,UNKNOWN
+location,9,geographical location
+location,10,geographical location
+location,11,UNKNOWN
+location,12,UNKNOWN
+location,13,UNKNOWN
+location,14,UNKNOWN
+location,15,geographical location
+location,16,geographical location
+location,17,UNKNOWN
+location,18,geographical location
+location,19,UNKNOWN
+location,20,UNKNOWN
+location,21,UNKNOWN
+location,22,UNKNOWN
+location,23,geographical location
+location,24,UNKNOWN
+location,25,UNKNOWN
+destination,1,geographical location
+destination,2,geographical location
+destination,3,UNKNOWN
+destination,4,UNKNOWN
+destination,5,UNKNOWN
+destination,6,UNKNOWN
+destination,7,geographical location
+destination,8,UNKNOWN
+destination,9,UNKNOWN
+destination,10,UNKNOWN
+destination,11,UNKNOWN
+destination,12,UNKNOWN
+destination,13,UNKNOWN
+destination,14,UNKNOWN
+destination,15,UNKNOWN
+destination,16,UNKNOWN
+destination,17,UNKNOWN
+destination,18,UNKNOWN
+destination,19,UNKNOWN
+destination,20,UNKNOWN
+destination,21,UNKNOWN
+destination,22,UNKNOWN
+destination,23,UNKNOWN
+destination,24,UNKNOWN
+destination,25,UNKNOWN
+post,1,UNKNOWN
+post,2,geographical location
+post,3,UNKNOWN
+post,4,UNKNOWN
+post,5,UNKNOWN
+post,6,UNKNOWN
+post,7,UNKNOWN
+post,8,UNKNOWN
+post,9,UNKNOWN
+post,10,UNKNOWN
+post,11,UNKNOWN
+post,12,UNKNOWN
+post,13,UNKNOWN
+post,14,UNKNOWN
+post,15,UNKNOWN
+post,16,UNKNOWN
+post,17,UNKNOWN
+post,18,UNKNOWN
+post,19,UNKNOWN
+post,20,UNKNOWN
+post,21,UNKNOWN
+post,22,UNKNOWN
+post,23,UNKNOWN
+post,24,UNKNOWN
+post,25,UNKNOWN
+degree,1,UNKNOWN
+degree,2,UNKNOWN
+degree,3,educational degree
+degree,4,UNKNOWN
+degree,5,UNKNOWN
+degree,6,UNKNOWN
+degree,7,UNKNOWN
+degree,8,UNKNOWN
+degree,9,UNKNOWN
+degree,10,UNKNOWN
+degree,11,UNKNOWN
+degree,12,UNKNOWN
+degree,13,UNKNOWN
+degree,14,UNKNOWN
+degree,15,UNKNOWN
+degree,16,UNKNOWN
+degree,17,UNKNOWN
+degree,18,UNKNOWN
+degree,19,UNKNOWN
+degree,20,UNKNOWN
+degree,21,UNKNOWN
+degree,22,UNKNOWN
+degree,23,UNKNOWN
+degree,24,UNKNOWN
+degree,25,UNKNOWN
+security_code,1,credit card security code
+security_code,2,password
+security_code,3,UNKNOWN
+security_code,4,UNKNOWN
+security_code,5,UNKNOWN
+security_code,6,UNKNOWN
+security_code,7,UNKNOWN
+security_code,8,UNKNOWN
+security_code,9,UNKNOWN
+security_code,10,UNKNOWN
+security_code,11,UNKNOWN
+security_code,12,UNKNOWN
+security_code,13,UNKNOWN
+security_code,14,UNKNOWN
+security_code,15,UNKNOWN
+security_code,16,UNKNOWN
+security_code,17,UNKNOWN
+security_code,18,UNKNOWN
+security_code,19,UNKNOWN
+security_code,20,UNKNOWN
+security_code,21,UNKNOWN
+security_code,22,UNKNOWN
+security_code,23,UNKNOWN
+security_code,24,UNKNOWN
+account_number,1,bank account number
+account_number,2,bank account number
+account_number,3,UNKNOWN
+account_number,4,bank account number
+account_number,5,bank account number
+account_number,6,bank account number
+account_number,7,UNKNOWN
+account_number,8,UNKNOWN
+account_number,9,UNKNOWN
+account_number,10,UNKNOWN
+account_number,11,UNKNOWN
+account_number,12,UNKNOWN
+account_number,13,UNKNOWN
+account_number,14,UNKNOWN
+account_number,15,UNKNOWN
+account_number,16,UNKNOWN
+account_number,17,UNKNOWN
+account_number,18,UNKNOWN
+account_number,19,UNKNOWN
+account_number,20,UNKNOWN
+account_number,21,UNKNOWN
+account_number,22,UNKNOWN
+account_number,23,UNKNOWN
+account_number,24,UNKNOWN
+account_number,25,UNKNOWN
+day,1,UNKNOWN
+day,2,UNKNOWN
+day,3,UNKNOWN
+day,4,UNKNOWN
+day,5,UNKNOWN
+day,6,UNKNOWN
+day,7,UNKNOWN
+day,8,UNKNOWN
+day,9,UNKNOWN
+day,10,UNKNOWN
+day,11,birthdate
+day,12,UNKNOWN
+day,13,birthdate
+day,14,birthdate
+day,15,birthdate
+day,16,UNKNOWN
+day,17,UNKNOWN
+day,18,UNKNOWN
+day,19,UNKNOWN
+day,20,UNKNOWN
+day,21,UNKNOWN
+day,22,UNKNOWN
+day,23,UNKNOWN
+day,24,UNKNOWN
+day,25,UNKNOWN
+month,1,credit card expiration date
+month,2,UNKNOWN
+month,3,UNKNOWN
+month,4,UNKNOWN
+month,5,UNKNOWN
+month,6,UNKNOWN
+month,7,credit card expiration date
+month,8,UNKNOWN
+month,9,UNKNOWN
+month,10,UNKNOWN
+month,11,UNKNOWN
+month,12,UNKNOWN
+month,13,UNKNOWN
+month,14,UNKNOWN
+month,15,UNKNOWN
+month,16,UNKNOWN
+month,17,UNKNOWN
+month,18,UNKNOWN
+month,19,UNKNOWN
+month,20,UNKNOWN
+month,21,UNKNOWN
+month,22,UNKNOWN
+month,23,UNKNOWN
+month,24,UNKNOWN
+month,25,UNKNOWN
+year,1,UNKNOWN
+year,2,vehicle year
+year,3,UNKNOWN
+year,4,vehicle year
+year,5,credit card expiration date
+year,6,UNKNOWN
+year,7,UNKNOWN
+year,8,UNKNOWN
+year,9,birthdate
+year,10,credit card expiration date
+year,11,vehicle year
+year,12,UNKNOWN
+year,13,UNKNOWN
+year,14,UNKNOWN
+year,15,birthdate
+year,16,vehicle year
+year,17,UNKNOWN
+year,18,UNKNOWN
+year,19,UNKNOWN
+year,20,UNKNOWN
+year,21,UNKNOWN
+year,22,birthdate
+year,23,UNKNOWN
+year,24,UNKNOWN
+year,25,UNKNOWN
