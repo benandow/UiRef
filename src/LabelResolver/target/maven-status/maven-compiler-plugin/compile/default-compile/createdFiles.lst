@@ -1,0 +1,17 @@
+com/benandow/uiref/labelResolver/Sector.class
+com/benandow/uiref/layoutModel/LayoutWriter.class
+com/benandow/uiref/layoutModel/Rectangle.class
+com/benandow/uiref/labelResolver/CollisionPredictor.class
+com/benandow/uiref/layoutModel/Constants.class
+com/benandow/uiref/labelResolver/Vector.class
+com/benandow/uiref/labelResolver/GuiPlot.class
+com/benandow/uiref/layoutModel/HierarchyNode.class
+com/benandow/uiref/labelResolver/LabelResolver.class
+com/benandow/uiref/labelResolver/Tuple.class
+com/benandow/uiref/App.class
+com/benandow/uiref/layoutModel/Coordinate.class
+com/benandow/uiref/layoutModel/HierarchyTree.class
+com/benandow/uiref/layoutModel/DrawableNode.class
+com/benandow/uiref/App$1.class
+com/benandow/uiref/labelResolver/Pair.class
+com/benandow/uiref/layoutModel/LayoutParser.class
