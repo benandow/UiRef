@@ -1,0 +1,7 @@
+<config>
+	<payload location="/src/ApkRewriter/payload"/>
+	<keystore location="/ext/data/uiref_key.jks" storepass="uirefpass" keypass="uirefpass" keystoreAlias="uiref"/>
+	<apktool location="/src/apktool" timeout="600"/>
+	<apksigner location="/src/android-linux-sdk/build-tools/29.0.3/apksigner"/>
+	<zipalign location="/src/android-linux-sdk/build-tools/29.0.3/zipalign"/>
+</config>

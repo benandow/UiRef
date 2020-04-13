@@ -1,0 +1,49 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/andow/Desktop/UiRef/UiRef/src/GuiRipperApp/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/andow/Desktop/UiRef/UiRef/src/GuiRipperApp/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/andow/Desktop/UiRef/UiRef/src/GuiRipperApp/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/andow/Desktop/UiRef/UiRef/src/GuiRipperApp/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/andow/Desktop/UiRef/UiRef/src/GuiRipperApp/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/andow/Desktop/UiRef/UiRef/src/GuiRipperApp/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/andow/Desktop/UiRef/UiRef/src/GuiRipperApp/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /Users/andow/Desktop/UiRef/UiRef/src/GuiRipperApp/AndroidManifest.xml:3:5-34
+		INJECTED from /Users/andow/Desktop/UiRef/UiRef/src/GuiRipperApp/AndroidManifest.xml
+		INJECTED from /Users/andow/Desktop/UiRef/UiRef/src/GuiRipperApp/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/andow/Desktop/UiRef/UiRef/src/GuiRipperApp/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/andow/Desktop/UiRef/UiRef/src/GuiRipperApp/AndroidManifest.xml
+		INJECTED from /Users/andow/Desktop/UiRef/UiRef/src/GuiRipperApp/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/andow/Desktop/UiRef/UiRef/src/GuiRipperApp/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/andow/Desktop/UiRef/UiRef/src/GuiRipperApp/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/andow/Desktop/UiRef/UiRef/src/GuiRipperApp/AndroidManifest.xml
+		INJECTED from /Users/andow/Desktop/UiRef/UiRef/src/GuiRipperApp/AndroidManifest.xml
+application
+ADDED from /Users/andow/Desktop/UiRef/UiRef/src/GuiRipperApp/AndroidManifest.xml:7:5-21:19
+	android:label
+		ADDED from /Users/andow/Desktop/UiRef/UiRef/src/GuiRipperApp/AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from /Users/andow/Desktop/UiRef/UiRef/src/GuiRipperApp/AndroidManifest.xml:9:9-45
+	android:allowBackup
+		ADDED from /Users/andow/Desktop/UiRef/UiRef/src/GuiRipperApp/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/andow/Desktop/UiRef/UiRef/src/GuiRipperApp/AndroidManifest.xml:11:9-40
+activity#com.benandow.android.gui.layoutRendererApp.GuiRipperActivity
+ADDED from /Users/andow/Desktop/UiRef/UiRef/src/GuiRipperApp/AndroidManifest.xml:12:9-20:20
+	android:label
+		ADDED from /Users/andow/Desktop/UiRef/UiRef/src/GuiRipperApp/AndroidManifest.xml:14:13-56
+	android:name
+		ADDED from /Users/andow/Desktop/UiRef/UiRef/src/GuiRipperApp/AndroidManifest.xml:13:13-88
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/andow/Desktop/UiRef/UiRef/src/GuiRipperApp/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/andow/Desktop/UiRef/UiRef/src/GuiRipperApp/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/andow/Desktop/UiRef/UiRef/src/GuiRipperApp/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/andow/Desktop/UiRef/UiRef/src/GuiRipperApp/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/andow/Desktop/UiRef/UiRef/src/GuiRipperApp/AndroidManifest.xml:18:27-74

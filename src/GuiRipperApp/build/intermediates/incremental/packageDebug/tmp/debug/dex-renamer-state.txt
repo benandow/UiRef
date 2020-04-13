@@ -1,0 +1,4 @@
+#Sat Apr 11 22:39:53 EDT 2020
+base.0=/Users/andow/Desktop/UiRef/UiRef/src/GuiRipperApp/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

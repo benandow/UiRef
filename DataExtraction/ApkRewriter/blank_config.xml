@@ -1,7 +1,0 @@
-<config>
-	<payload location=""/>
-	<keystore location="" storepass="" keypass="" keystoreAlias=""/>
-	<apktool location="" timeout="600"/>
-	<apksigner location=""/>
-	<zipalign location=""/>
-</config>

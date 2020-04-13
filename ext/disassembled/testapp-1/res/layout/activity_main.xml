@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="30.0dip">
+            <TextView android:id="@id/textView1" android:layout_width="100.0dip" android:layout_height="fill_parent" android:text="@string/name" />
+            <EditText android:id="@id/editText1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:ems="10" android:inputType="textPersonName" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="30.0dip">
+            <TextView android:id="@id/textView2" android:layout_width="100.0dip" android:layout_height="wrap_content" android:text="@string/addr" />
+            <EditText android:id="@id/editText2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:ems="10" android:inputType="textPostalAddress" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="30.0dip">
+            <TextView android:id="@id/textView3" android:layout_width="100.0dip" android:layout_height="wrap_content" android:text="@string/city" />
+            <EditText android:id="@id/editText3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:ems="10" android:inputType="text" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="30.0dip">
+            <TextView android:id="@id/textView4" android:layout_width="100.0dip" android:layout_height="wrap_content" android:text="@string/state" />
+            <EditText android:id="@id/editText4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:ems="10" android:inputType="text" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="30.0dip">
+            <TextView android:id="@id/textView5" android:layout_width="100.0dip" android:layout_height="wrap_content" android:text="@string/zip" />
+            <EditText android:id="@id/editText5" android:layout_width="wrap_content" android:layout_height="wrap_content" android:ems="10" android:inputType="text" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="30.0dip">
+            <TextView android:id="@id/textView6" android:layout_width="100.0dip" android:layout_height="wrap_content" android:text="@string/country" />
+            <EditText android:id="@id/editText6" android:layout_width="wrap_content" android:layout_height="wrap_content" android:ems="10" android:inputType="text" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="30.0dip">
+            <TextView android:id="@id/textView7" android:layout_width="100.0dip" android:layout_height="wrap_content" android:text="@string/phone" />
+            <EditText android:id="@id/editText7" android:layout_width="wrap_content" android:layout_height="wrap_content" android:ems="10" android:inputType="text" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="30.0dip">
+            <TextView android:id="@id/textView8" android:layout_width="100.0dip" android:layout_height="wrap_content" android:text="@string/email" />
+            <EditText android:id="@id/editText8" android:layout_width="wrap_content" android:layout_height="wrap_content" android:ems="10" android:inputType="text" />
+        </LinearLayout>
+        <Button android:id="@id/button" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Submit" />
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

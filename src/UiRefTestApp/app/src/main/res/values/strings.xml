@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UiRefTestApp</string>
+    <string name="name">Name</string>
+    <string name="email">Email Address</string>
+    <string name="addr">Address</string>
+    <string name="state">State</string>
+    <string name="city">City</string>
+    <string name="zip">Zip Code</string>
+    <string name="country">Country</string>
+    <string name="phone">Phone Number</string>
+</resources>

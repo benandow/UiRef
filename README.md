@@ -3,20 +3,21 @@
 This repository hosts the source code for the UiRef tool.
 UiRef resolves the semantics of user input widgets.
 
+# Instructions: #
 
-# Contents #
+* Place APKs in /ext/apks
 
-* DataExtraction: Contains all of UiRef's components for extracting layouts, resolving labels, and resolving semantics
+* Build the docker image: docker build -t benandow/uiref .
 
-* Analysis: Contains the code for clustering to identify anomalous input requests and other code in the paper to gather statistics
+* Run the docker image: docker run --net host --privileged -v /dev/bus/usb:/dev/bus/usb -v "$(pwd)/ext:/ext" benandow/uiref "\<emulator-identiifer\>"
 
-* AnnotationTool: Contains the code for the tool that we used to annotate layouts to gather ground-truth
+* I recommend running on an emulator with a resolution of 1280 x 768 pixels (Nexus 4). If you use a different resolution, you will need to experimentally determine the distance threshold and set the MAX\_DIST variable in src/LabelResolver/src/main/java/com/benandow/uiref/labelResolver/LabelResolver.java.
 
 
 
 # Publication #
 
-Full information on how UiRef works can be found in the following publication:
+Full details on UiRef can be found in the following publication:
 
 Benjamin Andow, Akhil Acharya, Dengfeng Li, William Enck, Kapil Singh, and Tao Xie. UiRef: Analysis of Sensitive User Inputs in Android Applications, Proceedings of the ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec), July 2017. Boston, MA, USA.
 
@@ -24,3 +25,6 @@ Benjamin Andow, Akhil Acharya, Dengfeng Li, William Enck, Kapil Singh, and Tao X
 # License #
 
 UiRef is licensed under the BSD-3-Clause License (See LICENSE.txt).
+
+
+
