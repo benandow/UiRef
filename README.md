@@ -2,16 +2,17 @@
 
 This repository hosts the source code for the UiRef tool.
 UiRef resolves the semantics of user input widgets.
+Full details on the design of UiRef can be found in publication listed below.
 
 # Instructions: #
 
 * Place APKs in /ext/apks
 
-* Build the docker image: docker build -t benandow/uiref .
+* Build the docker image: $ docker build -t benandow/uiref .
 
-* Launch an Android emulator on the host. I recommend running on an emulator with a resolution of 1280 x 768 pixels (Nexus 4). If you use a different resolution, you will need to experimentally determine the distance threshold and set the MAX\_DIST variable in src/LabelResolver/src/main/java/com/benandow/uiref/labelResolver/LabelResolver.java.
+* Launch an Android emulator on the host. The latest version of UiRef was tested using Android 10 (i.e., API 29). I recommend running on an emulator with a resolution of 1280 x 768 pixels (Nexus 4). If you use a different resolution, you will need to experimentally determine the distance threshold and set the MAX\_DIST variable in src/LabelResolver/src/main/java/com/benandow/uiref/labelResolver/LabelResolver.java.
 
-* Run the docker image: docker run --net host --privileged -v /dev/bus/usb:/dev/bus/usb -v "$(pwd)/ext:/ext" benandow/uiref "\<emulator-identiifer\>"
+* Run the docker image: docker run --net host --privileged --shm-size 2G -v /dev/bus/usb:/dev/bus/usb -v "$(pwd)/ext:/ext" benandow/uiref "\<emulator-identiifer\>"
 
 
 # Publication #

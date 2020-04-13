@@ -3,7 +3,7 @@ export adagramDisambig
 
 using AdaGram
 
-gc_enable(false)
+GC.enable(false)
 vm, dict = load_model("model/model_output_full.out");
 
 function adagramDisambig(target_word, context)
